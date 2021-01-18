@@ -1,1 +1,22 @@
-
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipusm ...",
+      "author": "sina",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipusm ...",
+      "author": "neda",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipusm ...",
+      "author": "ali",
+      "id": 3
+    }
+  ]
+}
